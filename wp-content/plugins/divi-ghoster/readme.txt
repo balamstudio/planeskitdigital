@@ -1,0 +1,192 @@
+=== Plugin Name ===
+
+
+
+Contributors: Aspengrovestudios.com
+
+
+
+Donate link: http://Aspengrovestudios.com/
+
+
+
+Tags: divi ghoster
+
+
+
+Requires at least: 3.0.1
+
+
+
+Tested up to: 4.4
+
+
+
+Stable tag: 4.3
+
+
+
+License: GPLv2 or later
+
+
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+
+
+
+
+White label Divi and Extra with your own brand.
+
+
+
+
+
+
+
+== Description ==
+
+
+
+
+
+
+
+White label Divi abd Extra with your own brand.
+
+
+== Installation... please refer to the included documentation ==
+
+
+1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
+
+
+
+2. Activate the plugin through the 'Plugins' screen in WordPress
+
+
+
+3. Use the Divi Ghoster screen to configure the plugin
+
+
+
+================ Changelog =================
+
+
+= 1.1 =
+
+* Updated on 04-20-2016
+
+* Fixed the issue with child themes not uploading
+
+* Fixed conflict with Revolution Slider plugin
+
+* Minor js bug fixes
+
+
+= 1.1.1 =
+
+* Updated on 04-26-2016
+
+* Fixed the issue with hiding Divi Switch
+
+* Fixed the issue with hiding Aspen Footer Editor
+
+
+= 1.1.2 =
+
+* Updated on 05-04-2016
+
+* Fixed the issue Theme Options upload buttons not working
+
+* Fixed various js conflicts in theme options
+
+* Minor bug fixes
+
+
+= 1.1.3 =
+
+* Updated on 05-09-2016
+
+* Increased compatibility with Divi Switch and Divi Booster. Both plugins will display in   the theme tab, but be hidden when Ultimate Ghoster is enabled. 
+
+* Divi hidden from updates dashboard. Now when there is a theme update available, your   chosen theme name will display in place of Divi.
+
+
+
+= 2.0 =
+
+* Updated on 06-13-2016
+
+* Divi Ghoster will now hide the 'Divi Theme and Divi Child Theme' and Ghoster plugin from theme detectors
+
+* Updated plugin description
+
+* Minor bug fixes 
+
+* Bumped version number
+
+
+====== 2.0.2 ======
+
+* Updated on 09-5-2016
+
+* Fixed conflict with Divi Booster
+
+* Hides “Divi” slug from Role Editor, Role Editor no longer hidden because the slug is white labeled
+
+* Minor bug fixes 
+
+* Bumped version number
+
+
+====== 2.1.0 ======
+
+* Updated on 09-11-2016
+
+* Ghoster is now compatible with Extra! 
+
+* Divi 3.0 compatibility (hides 'D' on front-end)
+
+* Minor bug fixes 
+
+* Bumped version number
+
+====== 2.1.1 ======
+
+* Updated on 09-27-2016
+
+* Fixed issue with login customizer shadow 
+
+* Bumped version number
+
+====== 2.1.2 ======
+
+* Updated on 11-11-2016
+
+* Fixed issue with Ultimate Ghoster not activating in some instances
+* Fixed issue with language translation
+* When an update is available for Ghoster it will now display as '<Your Theme Name> Addon'
+* Divi Top 100 extensions are now Ghosted with <Your Theme Name>’
+* Instances of “Divi or Extra” in plugin or extension names is replaced with your chosen theme name.
+* Fixed problem where login customizer caused the form to float too far left. 
+
+
+====== 2.1.3 ======
+
+* Updated on 12-12-2016
+
+* Fixed conflicts with WordPress 4.7 customizer
+
+====== 2.1.4 ======
+
+* Updated on 12-12-2016
+
+* Fixed issue with login page customizer
+
+
+
+
+

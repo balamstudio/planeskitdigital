@@ -1,0 +1,70 @@
+/*
+Theme Name: Konibit
+Theme URI: http://www.asesorvirtual.com.mx/
+Version: 3.24.1
+Description: Custom design by <a href="http://www.konibit.com">Konibit</a>.
+Author: Konibit
+Author URI: http://www.konibit.com
+Tags: konibit
+Template: Divi
+Copyright: (c) 2005-2017 Konibit.
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+@import url("../Divi/style.css");
+*/
+
+
+/*  MENU  */
+
+#top-menu .menu-item-has-children>a:first-child:after {
+    top: 10px;
+}
+
+#et_search_icon:before {
+    top: 5px;
+}
+
+#et-info {
+    padding-bottom: 0;
+}
+
+
+/*  SIDEBAR */
+
+.widgettitle {
+    color: #2ea3f2
+}
+
+.woocommerce-product-search button,
+.woocommerce .widget_price_filter .price_slider_amount .button {
+    background-color: #2ea3f2;
+    border: none;
+    color: white;
+    padding: 3px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 3px;
+    line-height: 1.7em!important;
+}
+
+input[type=search].search-field {
+    width: 100%;
+    padding: 6px 9px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.prev_next_buttons>a[rel="prev"] {
+    float: right;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background-color: #2ea3f2;
+}
+
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+    background-color: #add;
+}

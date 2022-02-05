@@ -1,0 +1,4 @@
+/* BUILDER */
+
+#epanel-mainmenu li[aria-controls="wrap-builder"] { display: none;}
+.pages .post-state { display: none;}

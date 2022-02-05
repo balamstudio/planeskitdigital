@@ -1,0 +1,30 @@
+2022-01-24T18:49:53+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:49:54+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:49:55+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:49:55+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:49:55+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:50:13+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:50:15+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:50:18+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:53:47+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:55:43+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:55:44+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:55:44+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:56:02+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:56:04+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
+2022-01-24T18:56:08+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+

@@ -1,0 +1,12 @@
+.wp-core-ui .button-primary {
+    border: none;
+    box-shadow: none;
+}
+.wp-core-ui .button-primary:hover {
+    opacity: 0.8;
+}
+  #login .button-primary {
+  text-shadow:none;
+  border:0px;
+  box-shadow:none;
+	}

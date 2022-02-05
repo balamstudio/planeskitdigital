@@ -1,0 +1,2 @@
+2022-01-24T18:57:53+00:00 CRITICAL require_once(): Failed opening required 'module/helpers/WoocommerceModules.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/konibitmientrete/public_html/wp-content/themes/Divi/includes/builder/autoload.php en la línea 29
+
